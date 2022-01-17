@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="tLah5`KY0P308?vq-rs%">ship 1 base x</variable><variable id="{nO.uBhlNCrAo=Iis}KR">ship 1 base y</variable><variable id="pbi%LuiT}yfj5S_ZI3[;">ship 2 base x</variable><variable id="{+hv^Cg?L5KTFoMY62Y*">ship 2 base y</variable><variable id="GH2rOjvODpyu3Gh8uNnN">ship 3 base x</variable><variable id="nzN%7RR4ft]yo+V3235?">ship 3 base y</variable><variable id="O?QlMGape!mO`pH.7wnJ">ship 4 base x</variable><variable id="j=}]v`bWR{LOQMuuG!7S">ship 4 base y</variable><variable id="U!WKcqaGE!+bwCJ3j#tl">ship 5 base x</variable><variable id="/pz*E8Ug0iGGDspZ~N,{">ship 5 base y</variable></variables><block type="pxt-on-start" id="Z{Ji+Bh?|Rc7rUQ$lcDK" x="20" y="20"/><block type="device_forever" id="IAUIqsW11,3/eO(ogah7" x="225" y="20"/></xml>
